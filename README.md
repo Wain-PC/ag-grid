@@ -2,6 +2,8 @@
 ag-Grid
 ==============
 
+The difference from the original package is only in *bower.json*. "Main" section now heads to the compiled module instead of the sources.
+
 "ag" stands for AGnostic
 
 #### Install with Bower
